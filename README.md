@@ -31,7 +31,7 @@ Open http://127.0.0.1:8000. Stop the server with Ctrl+C when you finish.
 For the EXIF challenge, download the provided image and inspect it with ExifTool:
 
 ```sh
-exiftool -a -G1 team_photo.jpg
+exiftool -a -G1 assets/team_photo.jpg
 ```
 
 ## Project layout
